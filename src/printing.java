@@ -3,7 +3,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-public class Example1 {
+public class printing {
 		public static void main(String args[]) throws Exception {
 			String url = "jdbc:mysql://192.168.35.160:3306/trainee19";
 			String uname = "trainee19";

@@ -4,7 +4,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.util.Scanner;
 
-public class Example4 {
+public class updating {
 		public static void main(String args[]) throws Exception {
 			Scanner sc = new Scanner(System.in);
 			Connection con =null;

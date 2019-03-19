@@ -4,7 +4,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.util.Scanner;
 
-public class Example2 {
+public class inserting {
 		public static void main(String args[]) throws Exception {
 			String url ="jdbc:mysql://192.168.35.160:3306/trainee19";
 			String user ="trainee19";
